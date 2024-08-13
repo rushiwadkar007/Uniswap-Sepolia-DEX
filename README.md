@@ -6,4 +6,4 @@ This is a minified working version of UniswapV2 smart contracts. All you need to
 
 ---
 
-This is contract has been minified, so no need to scaffold a hardhat or foundry project for it.
+This contract has been minified, so no need to scaffold a hardhat or foundry project for it.
